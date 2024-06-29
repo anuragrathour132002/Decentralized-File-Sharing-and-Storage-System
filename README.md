@@ -14,9 +14,11 @@
 
 ![Screenshot 2024-05-11 112140](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/8e42b3cf-d698-49fe-bcdd-33942f3caa67)
 
-![Screenshot (280)](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/4b483fcc-1625-48ab-8eb7-95fa8c632446)
+![Screenshot (277)](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/67525229-1656-42a2-90f9-8091c74f2099)
 
 ![Screenshot 2024-05-11 113236](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/cd58022a-9f97-44af-93fa-0d7f63665dad)
 
-![Screenshot (277)](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/67525229-1656-42a2-90f9-8091c74f2099)
+![Screenshot (280)](https://github.com/anuragrathour132002/Decentralized-File-Sharing-and-Storage-System/assets/83803557/4b483fcc-1625-48ab-8eb7-95fa8c632446)
+
+
 
